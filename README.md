@@ -28,6 +28,8 @@
 
 12- Paste this Json code there and change "arn:aws:s3:::" with your own ARN and Save changes.
 
+https://github.com/bfsabah/Static-Website-Hosting-AWS-S3/blob/5f9be916843ef79eeba1167f5116e1b4e37bebf6/S3-policy.json#L1-L15
+
 13- Go and try to reach index.html. No it is accessible.
 
 ![image](https://user-images.githubusercontent.com/113843658/204992814-7f524c97-b2d2-4898-9d33-77babe4179e8.png)
